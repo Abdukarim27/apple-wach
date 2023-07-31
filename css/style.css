@@ -67,7 +67,7 @@ img {
 
 .site-header-logo {
   margin-right: auto;
-  transition: opacity 0.3s ease;
+  transition: opacity 0.3s e;
 }
 
 .site-header-logo:hover {
