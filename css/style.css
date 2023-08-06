@@ -151,10 +151,10 @@ img {
 
 /* SEARCH-FORM  */
 .search-form-input {
-  border: 0;
   padding-top: 6px;
   padding-bottom: 6px;
-  border: 1px solid #333;
+  border: 0;
+  border-bottom: 1px solid #333;
 }
 
 
@@ -163,7 +163,7 @@ img {
   padding-top: 140px;
   padding-bottom: 185px;
   border-bottom: 2px solid #ddd;
-  background-image: url(../img/watches.jpg);
+  background-image: url(../img/intro-bg.jpg);
   background-repeat: no-repeat;
   background-position: left calc(50% + 550px) bottom;
 }
@@ -202,7 +202,7 @@ only screen and (                min-resolution: 192dpi),
 only screen and (                min-resolution: 2dppx) {
 
   .hero {
-    background-image: url(../img/watches@2x.jpg);
+    background-image: url(../img/intro-bg@2x.jpg);
   }
 
 }
